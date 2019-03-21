@@ -5,6 +5,7 @@ The website is a appliction form for merchants to register. It created by React 
 
 Run ```yarn install```, and start the app :
 ```yarn start```
+
 The output of the development server will be available at http://localhost:3000
 
 
