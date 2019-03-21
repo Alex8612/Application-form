@@ -1,7 +1,8 @@
 
 
 # Application-form
-The website is a appliction form for merchants to register. It created by React JS.Digital signature is available. 
+The website is a appliction form for merchants to register and digital signature is available for users.
+It was created by React JS and React final form. 
 
 ## Getting Started
 Run ```yarn install```, and start the app :
